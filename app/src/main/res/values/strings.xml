@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">simplefunfacts</string>
     <string name="didyouknow">Did you know?</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="category_colors">Colors</string>
+    <string name="native_lang">Native Language</string>
+    <string name="fun_facts">Fun Facts</string>
 </resources>
