@@ -1,10 +1,12 @@
-package com.wmi.simplefunfacts;
+package com.wmi.nativelang;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+
+import com.wmi.simplefunfacts.R;
 
 public class NativeLanguage extends AppCompatActivity {
 

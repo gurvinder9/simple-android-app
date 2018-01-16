@@ -20,12 +20,12 @@
             android:name=".FunFactActivity"
             android:label="Fun Facts" />
         <activity
-            android:name=".NativeLanguage"
+            android:name="com.wmi.nativelang.NativeLanguage"
             android:label="Native Language" />
         <activity
-            android:name=".ColorsActivity"
+            android:name="com.wmi.nativelang.ColorsActivity"
             android:label="Colors" />
-        <activity android:name=".PhrasesActivity" android:label="Phrases"></activity>
+        <activity android:name="com.wmi.nativelang.PhrasesActivity" android:label="Phrases"></activity>
     </application>
 
 </manifest>

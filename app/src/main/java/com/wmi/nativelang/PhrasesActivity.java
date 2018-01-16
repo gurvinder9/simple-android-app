@@ -1,8 +1,10 @@
-package com.wmi.simplefunfacts;
+package com.wmi.nativelang;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
+
+import com.wmi.simplefunfacts.R;
 
 import java.util.ArrayList;
 

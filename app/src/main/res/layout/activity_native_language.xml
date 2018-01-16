@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@color/tan_background"
     android:orientation="vertical"
-    tools:context="com.wmi.simplefunfacts.NativeLanguage">
+    tools:context="com.wmi.nativelang.NativeLanguage">
 
     <TextView
         android:id="@+id/colors"

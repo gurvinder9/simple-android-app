@@ -1,4 +1,4 @@
-package com.wmi.simplefunfacts;
+package com.wmi.nativelang;
 
 public class NativeWord {
     private String defaultTranslation;
